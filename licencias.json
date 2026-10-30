@@ -1,0 +1,17 @@
+{
+ "lista": {
+  "v": 1,
+  "emitida": "2026-10-30T22:09:17Z",
+  "licencias": {
+   "d7a2b84e9cc6d12fd612f21bdef3d38dbe59cce8": {
+    "m": [
+     "*"
+    ],
+    "c": "",
+    "e": "activa",
+    "d": "gXvE6nxxdn/gEvJaF7K621emSsrjGoGGyenSMECrQG9VHAD4i3VFPjzTHTk7niBiRSXiXm76OvEReh5sRba2MlMFagTNd56SZglCYdbh6mODF7OE8DJFKg=="
+   }
+  }
+ },
+ "firma": "k/nJZ6ttARPl29pcgzLlldMlWW86He/rn++5rnps6An1fiirvpQTEZsSANRtDHQfmB5CLnHEp4csNdmulY5OBA=="
+}
